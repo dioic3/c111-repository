@@ -36,8 +36,8 @@ import numpy as np
 # usa o sort para ordenar e .flip para deixar o inverso
 
 # CONCATENACAO DE NUMPY ARRAYS
-arr = np.array([1,2,3,4])
-arr1 = np.array([5,6,7,8])
+#arr = np.array([1,2,3,4])
+#arr1 = np.array([5,6,7,8])
 
-arr2 = np.concatenate([arr, arr1])
-print(arr2)
+#arr2 = np.concatenate([arr, arr1])
+#print(arr2)
